@@ -1,0 +1,14 @@
+2
+"."
+1
+  DIR "dist" "dist" HIDDEN
+  2
+    DIR "lib" "dist\lib" HIDDEN
+    1
+      FILE "jl1.0.1.jar" "C:\Users\Mounir\Documents\NetBeansProjects\Mario-AIU\Mario-AIU_jetpdb\tmpres\jl1.0.1__1.jar" HIDDEN
+    FILE "Mario-AIU.jar" "C:\Users\Mounir\Documents\NetBeansProjects\Mario-AIU\Mario-AIU_jetpdb\tmpres\Mario-AIU__0.jar" HIDDEN
+"$jre"
+1
+  DIR "lib" "C:\Users\Mounir\Documents\NetBeansProjects\Mario-AIU\Mario-AIU_jetpdb" HIDDEN
+  1
+    FILE "rt-vcf.zip" "C:/Users/Mounir/Documents/NetBeansProjects/Mario-AIU/Mario-AIU_jetpdb/Mario-AIU.vcfzip" HIDDEN

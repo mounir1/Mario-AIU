@@ -1,0 +1,55 @@
+%%Excelsior JET v11.0 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global+
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp+
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-cryptseed=EiQorlV4MrdOwkuuhluIp6ZeP295W5AV6BRTqmhD4cujxtPriMDyHakzGJYXhTXp
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.jit.disable.resolution -Djet.gc.heaplimit:134217728 -Djet.stack.trace
+-jpiiproject=C:\Users\Mounir\Documents\NetBeansProjects\Mario-AIU\Mario-AIU.jpn
+-main=MainGame/Main
+-outputdir=.
+-outputname=Mario-AIU
+-saprofmode=ALWAYS
+-saproftimeout=20
+-splash=./Images/Mario_aiu.png
+-stacklimit=1018960
+-startupprofile=./Mario-AIU.startup
+-versioninfocompanyname=The Smart1
+-versioninfofiledescription=Mario-AIU
+-versioninfolegalcopyright=Copyright \x00a9 2015 The Smart1
+-versioninfoproductname=Mario-AIU
+-versioninfoproductversion=0.0.3.0
+
+
+
+
+!classpathentry ./dist/Mario-AIU.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./dist/lib/jl1.0.1.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=autodetect
+!end
+
+!module ./Images/Mario_aiu.ico
+!module ./Mario-AIU.usg
+

@@ -1,0 +1,53 @@
+
+-jetcomponent=11.00
+-jetedition=Evaluation
+-vcode=8040
+-sys=W
+-nosmart
+-zimer=39
+-stack=1018960
+-LargeAddressAware
+-config=VMProperty:-Djet.jit.disable.resolution -Djet.gc.heaplimit:134217728 -Djet.stack.trace
+-config=ClassPath:*{exe.dir}\dist\Mario-AIU.jar;*{exe.dir}\dist\lib\jl1.0.1.jar
+-config=JETProfile:8040
+-config=JETProfileName:1.8.0_40
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=C:/Users/Mounir/Documents/NetBeansProjects/Mario-AIU/Mario-AIU_jetpdb/Mario-AIU.efs
+-config=MainClass:MainGame/Main
+-config=VersionInfo:pre-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.8.0_40; JET update level: 0; CPU architecture: x86
+-name=Mario-AIU.exe
+C:\Users\Mounir\Documents\NetBeansProjects\Mario-AIU\Mario-AIU_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+
+-config=HaveSplash:1
+-config=SplashCloseOnTitle:
+-config=SplashCloseOnAWTWindow:1
+-LinkFileAsRData=LINK_SplashPicture:./Images/Mario_aiu.png
+
+-config=MultiMain:1
+
+C:\jet11.0-beta1-x86\lib\x86\startup-exe-splash.zip
+
+-config=PackagingOptions:dlls=java;net;t2k;nio;awt;jsoundds;fontmanager;jsound;zip component_microversions=BC-0
+-ReadLinkInfo=C:\Users\Mounir\Documents\NetBeansProjects\Mario-AIU\Mario-AIU_jetpdb\reorder.li
+-config=SingleComp:1
+-exp=JR_Loader
+C:\Users\Mounir\Documents\NetBeansProjects\Mario-AIU\Mario-AIU_jetpdb\obj.zip
+C:\jet11.0-beta1-x86\lib\x86\rt.lib
+-config=JETRuntime:
+-EmbeddedFileSys=C:\jet11.0-beta1-x86\profile1.8.0_40\develop\lib\x86\rt11008040.efs
+-EmbeddedFileSys=C:\jet11.0-beta1-x86\profile1.8.0_40\develop\lib\x86\nativelibs.efs
+-EmbeddedFileSys=C:\jet11.0-beta1-x86\profile1.8.0_40\develop\lib\x86\zi.efs
+-config=BootClassPath:*{exe.dir}\xresources.jar
+C:\jet11.0-beta1-x86\lib\x86\dialog.res
+C:\jet11.0-beta1-x86\lib\x86\aj-rt-lowlevel.zip
+C:\jet11.0-beta1-x86\lib\x86\startup-rtdef.zip
+C:\jet11.0-beta1-x86\lib\x86\import32.lib
+Images\Mario_aiu.ico
+C:\jet11.0-beta1-x86\lib\x86\app.res
+-StrictLinkToDLL
+
+
